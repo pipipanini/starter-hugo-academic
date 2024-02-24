@@ -48,6 +48,9 @@ tags: []
 - 偏EDA：DAC、DATE、ICCD、ICCAD、ESWEEK
 - 人工智能：AAAI，CVPR，ICCV，ICML，IJCAI，TPAMI
 
-有源代码的会议（见论文右上角的图标Artifact Evaluation）：FAST、USENIX ATC、SOSP、OSDI、HPCA、PPOPP、
+有源代码的会议（见论文右上角的图标Artifact Evaluation）：FAST、USENIX ATC、SOSP、OSDI、HPCA、PPOPP
+
+- 学者网站：
+  - https://hanlab.mit.edu/
 
 # 四、科研方法
