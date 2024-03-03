@@ -53,7 +53,7 @@ MongoDB在[文档型数据库中排名第一](https://db-engines.com/en/ranking/
 | Lesson Number |    章节     |        内容       |      备注             |
 | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-------------------------: |
 |    1    | 第1章  初识MongoDB | MongoDB的发展与现状、关键特性、安装部署、重要进程 |    作业1：安装环境    |
-|    2    |    |                              |      |
+|    2    | 第2章  CRUD操作  |   插入操作、删除操作、修改操作                     |   掌握操作语法   |
 
 ## 五、如何科学的提问？
 一、实验练习过程中，会遇到各种各样的bug，请不要怕。在提问之前，请仔细阅读[How-To-Ask-Questions-The-Smart-Way提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)和[Stop-Ask-Questions-The-Stupid-Ways/](https://github.com/tangx/Stop-Ask-Questions-The-Stupid-Ways/blob/master/README.md)这两篇文章。这两篇文章并不是为了故意浪费大家的时间, 也不是为了禁止大家提出任何问题, 而是为了让大家知道"什么是正确的". 当你愿意为这些"正确的做法"去努力, 并且尝试用专业的方式提出问题的时候, 你就已经迈出了成为"成为专业人士"的第一步[^1] 。
