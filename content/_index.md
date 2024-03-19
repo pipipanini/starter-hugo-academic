@@ -91,7 +91,7 @@ sections:
         folders:
           - students
     design:
-      columns: '1'
+      columns: '2'
       view: list
 
   - block: contact
