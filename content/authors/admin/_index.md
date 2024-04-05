@@ -19,7 +19,7 @@ role: 博士，副教授，硕士生导师
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: 南京审计大学，计算机学院
-    url: https://www.nau.edu.cn/
+    url: https://xxgc.nau.edu.cn/2020/0611/c2614a65887/page.htm
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include big data audit, artificial intelligence and computer system.
