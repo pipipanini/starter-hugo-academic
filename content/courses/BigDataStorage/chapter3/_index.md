@@ -17,4 +17,4 @@ type: book
 * MongoDB索引的数据结构是B+树
 ---
 NEXT
-[3.1 创建索引](https://github.com/pipipanini/starter-hugo-academic/blob/main/content/courses/BigDataStorage/chapter3/3.1%20%E5%88%9B%E5%BB%BA%E7%B4%A2%E5%BC%95.md)
+[3.1 创建索引](https://github.com/pipipanini/starter-hugo-academic/blob/main/content/courses/BigDataStorage/chapter3/3.1.md)
