@@ -22,11 +22,20 @@ all_day: false
 publishDate: '2017-01-01T00:00:00Z'
 
 ---
-介绍历年指导学生过的情况.
 
-介绍历年指导学生过的情况.
 
-介绍历年指导学生过的情况.
+
+介绍历年指导学生过的情况。
+
+介绍历年指导学生过的情况。
+
+介绍历年指导学生过的情况。
+
+Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.
+
+**Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.**
+
+On this page, you'll find some examples of the types of technical content that can be rendered with Wowchemy.
 
 
 {{% callout note %}}
