@@ -21,7 +21,7 @@ tags: []
 查看资源
 {{% /callout %}}
 
-# 一、在线数据库检索资源
+## 一、在线数据库检索资源
 
 - [DBLP](https://dblp.uni-trier.de/ )
 - [sci-hub](https://www.sci-hub.ren/)
@@ -29,7 +29,7 @@ tags: []
 - [百度学术](https://xueshu.baidu.com/)
 - [中国知网](https://www.cnki.net/)
 
-# 二、学术刊物
+## 二、学术刊物
 
 - [中国计算机学会推荐国际学术会议和期刊目录](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
 - [CCF发布计算领域高质量科技期刊分级目录](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
@@ -40,7 +40,7 @@ tags: []
 - [自动化学报](http://www.aas.net.cn/)
 - [计算机研究与发展](https://crad.ict.ac.cn/CN/1000-1239/home.shtml)
 
-# 三、顶级会议/期刊
+## 三、顶级会议/期刊
 
 - FAST、USENIX ATC、PPOPP、MSST、MASCOTS、SYSTOR、TOS、TC、TPDS、VLDB
 - 偏系统：HPCA、ISCA、SOSP、OSDI、NSDI
@@ -50,7 +50,11 @@ tags: []
 
 有源代码的会议（见论文右上角的图标Artifact Evaluation）：FAST、USENIX ATC、SOSP、OSDI、HPCA、PPOPP
 
+## 四、学者网站和学术资源
 - 学者网站：
-  - https://hanlab.mit.edu/
+  - song han, MIT, site: [hanlab](https://hanlab.mit.edu/)
+- 学术资源：
+  - Rutgers Efficient AI (REFAI) Seminar, https://sites.google.com/site/boyuaneecs/efficient-ai-seminar-talk?authuser=0
 
-# 四、科研方法
+
+## 五、科研方法
