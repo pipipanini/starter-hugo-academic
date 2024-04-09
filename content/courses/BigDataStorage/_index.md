@@ -61,6 +61,8 @@ MongoDB在[文档型数据库中排名第一](https://db-engines.com/en/ranking/
 |    3    | 第2章  CRUD操作  |   查询操作                                       |  作业2   |
 |    4    | 第3章  索引  |   单字段索引、复合索引、多键索引、索引管理、查询优化     |  作业3   |
 |    5    | 第4章  聚集操作  |   简单聚集函数，管道聚集，MapReduce编程     |  作业4   |
+|    6    | 第5章  WiredTiger存储引擎  |   存储引擎的数据结构、原理     |     |
+|    7    | 第6章  复制集  |   复制集概述、部署一个复制集     |     |
 
 ## 五、如何科学的提问？
 一、实验练习过程中，会遇到各种各样的bug，请不要怕。在提问之前，请仔细阅读[How-To-Ask-Questions-The-Smart-Way提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)和[Stop-Ask-Questions-The-Stupid-Ways/](https://github.com/tangx/Stop-Ask-Questions-The-Stupid-Ways/blob/master/README.md)这两篇文章。这两篇文章并不是为了故意浪费大家的时间, 也不是为了禁止大家提出任何问题, 而是为了让大家知道"什么是正确的". 当你愿意为这些"正确的做法"去努力, 并且尝试用专业的方式提出问题的时候, 你就已经迈出了成为"成为专业人士"的第一步[^1] 。
