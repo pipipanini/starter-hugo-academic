@@ -92,7 +92,7 @@ sections:
           - students
     design:
       columns: '2'
-      view: showcase
+      view: compact
 
   - block: contact
     id: contact
