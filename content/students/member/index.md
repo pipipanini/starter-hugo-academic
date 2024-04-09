@@ -16,7 +16,7 @@ publishDate: '2024-041-09T00:00:00Z'
 
 
 {{% callout note %}}
-成员情况
+欢迎研究生、本科生加入我们，一起学习，共同进步！联系邮箱：ffshen@nau.edu.cn
 {{% /callout %}}
 
 ## 一、指导学生情况
