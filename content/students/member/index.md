@@ -1,5 +1,6 @@
 ---
 title: 学生成员
+summary: 介绍历年指导的研究生、本科生成果情况，毕业情况等。
 
 event: Wowchemy Conference
 event_url: https://example.org
