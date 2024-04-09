@@ -2,6 +2,10 @@
 # Page title
 title: 《大数据存储技术》课程
 
+# authors contribution
+authors: ["admin"]
+author_notes: ["contributor"]
+
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
 linktitle: 课程介绍
 
