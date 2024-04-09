@@ -22,18 +22,23 @@ all_day: false
 publishDate: '2017-01-01T00:00:00Z'
 
 ---
+Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.
+
+**Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.**
+
+On this page, you'll find some examples of the types of technical content that can be rendered with Wowchemy.
 
 {{% callout note %}}
 成员情况
 {{% /callout %}}
 
-# 一、研究生
+## 一、研究生
 
 - **2023级**：苏文璋，李倩倩
 - **2022级**：杨博帆，梁琦玮，惠丽洁
 - **2021级**：史林，刘海鹏，汤星译
 
-# 二、指导的本科生(毕业生)
+## 二、指导的本科生(毕业生)
 
 - **2024届**：缪浩然（无锡海隆），秦子恒（中科创达），唐一宸（雄安联通），汤觉淇（江苏海隆软件），
 - **2023届**：常旭（南京公务员），周瑾（SHEIN），叶国绪（简睿捷软件），曹晨洋，陈一祺，索朗扎巴，陈燚（西南大学读研），陈健（南审读研），任翔宇（南审读研），杨聪（东华大学读研）
