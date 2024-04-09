@@ -15,6 +15,3 @@ type: book
     比如：书的目录、序号、学号等
       	
 * MongoDB索引的数据结构是B+树
----
-NEXT
-[3.1 创建索引](https://github.com/pipipanini/starter-hugo-academic/blob/main/content/courses/BigDataStorage/chapter3/3.1.md)
