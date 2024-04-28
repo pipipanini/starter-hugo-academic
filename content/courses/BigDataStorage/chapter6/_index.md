@@ -9,7 +9,7 @@ linktitle: 第6章 复制集
 summary: Blah, blah, blah...
 
 # Date page published
-date: 2024-04-25
+date: 2019-05-05
 
 # Book page type (do not modify).
 type: book
