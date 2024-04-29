@@ -2,6 +2,10 @@
 # Page title
 title: 《大数据存储技术》课程
 
+# authors contribution
+authors: ["admin"]
+author_notes: ["contributor"]
+
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
 linktitle: 课程介绍
 
@@ -22,7 +26,8 @@ weight: 1
 
 MongoDB在[文档型数据库中排名第一](https://db-engines.com/en/ranking/document+store)。本课程是数据科学与大数据技术专业学生必须学习和掌握的基础课程，是一门理论与实践相结合的专业主干课。注重培养学生的自主学习和动手操作能力。大数据存储技术是海量数据存储的基础和支撑，它采用分布式计算架构方式，对海量数据提供数据存储和业务访问功能，主要讲授大数据存储MongoDB、CRUD操作、索引、聚集分析、wiredtriger存储引擎、复制集、分片集群、分布式文件存储系统、管理与监控、权限管理和应用实践。通过本课程的学习，学生能够掌握大数据技术的基本概念、基本原理、设计方法和实现技术。具备分析和实现海量数据的分布式存储的基本能力。培养学生的工匠意识，引导学生运用唯物主义辩证法分析和解决问题的能力。
 
-> 感谢“阿里云计算有限公司”对本课程的大力支持！
+> 感谢“阿里云计算有限公司”对本课程的大力支持！<br />
+> 感谢李晓涵、倪可欣、谢金龙、尚祥枝等同学编写在线教程！
 
 ## 二、课程资源
 
@@ -57,6 +62,13 @@ MongoDB在[文档型数据库中排名第一](https://db-engines.com/en/ranking/
 |    3    | 第2章  CRUD操作  |   查询操作                                       |  作业2   |
 |    4    | 第3章  索引  |   单字段索引、复合索引、多键索引、索引管理、查询优化     |  作业3   |
 |    5    | 第4章  聚集操作  |   简单聚集函数，管道聚集，MapReduce编程     |  作业4   |
+|    6    | 第5章  WiredTiger存储引擎  |   存储引擎的数据结构、原理     |     |
+|    7    | 第6章  复制集  |   复制集概述、部署一个复制集     |     |
+|    8    | 第6章  复制集  |   复制集工作机制     |  作业5   |
+|    9    | 第7章  分片集群  |   分片集群的部署架构、手动部署一个分片集群     |     |
+|    10    | 第7章  分片集群  |   分片集群的工作机制     |  作业6，[大作业]({{< relref "./task/exp.md" >}})   |
+
+
 
 ## 五、如何科学的提问？
 一、实验练习过程中，会遇到各种各样的bug，请不要怕。在提问之前，请仔细阅读[How-To-Ask-Questions-The-Smart-Way提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)和[Stop-Ask-Questions-The-Stupid-Ways/](https://github.com/tangx/Stop-Ask-Questions-The-Stupid-Ways/blob/master/README.md)这两篇文章。这两篇文章并不是为了故意浪费大家的时间, 也不是为了禁止大家提出任何问题, 而是为了让大家知道"什么是正确的". 当你愿意为这些"正确的做法"去努力, 并且尝试用专业的方式提出问题的时候, 你就已经迈出了成为"成为专业人士"的第一步[^1] 。
