@@ -15,7 +15,7 @@ date: 2025-11-11
 type: book
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
-weight: 1
+weight: 10
 ---
 
 - 10.1 基于角色与权限控制原理
