@@ -1,4 +1,4 @@
-﻿---
+---
 # Page title
 title: 第10章 权限控制
 
@@ -15,14 +15,14 @@ date: 2025-11-11
 type: book
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
-weight: 6
+weight: 1
 ---
 
--10.1 基于角色与权限控制原理
--10.2 启动角色权限控制功能
--10.3 MongoDB默认提供角色
--10.4 用户管理
--10.5 角色管理
+- 10.1 基于角色与权限控制原理
+- 10.2 启动角色权限控制功能
+- 10.3 MongoDB默认提供角色
+- 10.4 用户管理
+- 10.5 角色管理
 
 ---
 **知识点**
